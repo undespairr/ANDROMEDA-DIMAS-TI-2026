@@ -34,5 +34,4 @@ ANDROMEDA-DIMAS-TI-2026/
 ├── src/
 ├── outputs/
 ├── figures/
-└── docs/
 
